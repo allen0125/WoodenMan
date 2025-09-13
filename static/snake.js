@@ -34,8 +34,8 @@ function collision(newHead, snake) {
 }
 
 function draw() {
-    ctx.fillStyle = "lightgreen";
-    ctx.fillRect(0, 0, canvas.width, canvas.height);
+    // Clear the canvas to make it transparent, showing the page background
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
 
     for (let i = 0; i < snake.length; i++) {
         ctx.fillStyle = (i == 0) ? "green" : "white";
