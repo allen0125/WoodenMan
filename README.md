@@ -1,2 +1,3 @@
 # WoodenMan
 1, 2, 3...
+<img width="940" height="761" alt="image" src="https://github.com/user-attachments/assets/f3b7e4cc-bfd7-4951-bfd1-6b41b414929a" />
